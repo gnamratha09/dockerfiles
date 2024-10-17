@@ -1,0 +1,4 @@
+From almalinux:9
+ENV course="DevOps with AWS" \
+    trainer="Namratha" \
+    duration="30hrs"
